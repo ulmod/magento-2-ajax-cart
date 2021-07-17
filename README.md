@@ -2,7 +2,7 @@
 
 [Magento 2 AJAX Cart](https://www.ulmod.com/ajax-cart-for-magento-2.html) is a Magento 2 extension that allows your shoppers to add products to the cart without wasting time on page reloads.
 
-With Magento 2 AJAX Cart, shoppers can order products in a short time, from any page of your store and save time on purchasing.
+With Magento 2 AJAX Cart, shoppers can order products in a short time, and from any page of your store.
 
 <a href="https://www.ulmod.com/ajax-cart-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
