@@ -19,7 +19,7 @@ With Magento 2 AJAX Cart, shoppers can order products in a short time, from any 
 * Multiple customizations options available
 * Mobile-friendly
 
-<img src="https://www.ulmod.com/media/ulmod/product_content/salecat-main.png">
+<img src="https://www.ulmod.com/media/wysiwyg/ajaxcart-main2.png">
 
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
